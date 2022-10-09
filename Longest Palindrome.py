@@ -1,4 +1,4 @@
-# Program to print the longest string in a palindrome
+# Program to print the longest palindrome in a string
 
 def longestPalindrome():
     s = str(input("Enter a string: "))    
